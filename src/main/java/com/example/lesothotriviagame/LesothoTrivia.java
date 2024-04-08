@@ -21,7 +21,7 @@ import javafx.scene.text.Font;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
-public class TriviaGameLesotho extends Application {
+public class LesothoTrivia extends Application {
 
     private int currentQuestionIndex = 0;
     private int score = 0;
